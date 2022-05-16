@@ -1,5 +1,5 @@
 # Overview
-This is the repository for paper: [On the Effect of Isotropy on VAE Representations of Text](TBD).
+This is the repository for paper: [On the Effect of Isotropy on VAE Representations of Text](https://aclanthology.org/2022.acl-short.78).
 
 ## Dataset
 We provide datasets used in this paper via Google Drive: https://drive.google.com/file/d/1Vh5C1A74DosCpX4Wdnjr5t5sye01FjCb/view?usp=sharing. 
