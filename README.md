@@ -50,3 +50,26 @@ This will generate 100K sentences using prior.
 Third: "python reconstruction.py -m DBpedia_C_5_po_diag_0"
 
 This will reconstruct sentences in test set and write them in mean.txt. This will also record BLEU and Rouge scores after reconstruction.
+
+## Citing
+If you find this repository useful, please cite:
+```
+@inproceedings{zhang-etal-2022-effect,
+    title = "On the Effect of Isotropy on {VAE} Representations of Text",
+    author = "Zhang, Lan  and
+      Buntine, Wray  and
+      Shareghi, Ehsan",
+    editor = "Muresan, Smaranda  and
+      Nakov, Preslav  and
+      Villavicencio, Aline",
+    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.acl-short.78/",
+    doi = "10.18653/v1/2022.acl-short.78",
+    pages = "694--701"
+}
+```
+
